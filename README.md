@@ -1,7 +1,7 @@
 <h1 align="center">Hi⚡ I'm Jossep Paredes (Jp)</h1>
 <h3 align="center">A passionate frontend developer with solid knowledge in backend</h3>
 
-- 💬 Ask me about **Reactjs, Node or laravel**
+- 💬 Ask me about **Reactjs, Node or JavaScript**
 
 - 📫 How to reach me **jossepparedes@gmail.com**
 
